@@ -1,5 +1,6 @@
 # VMware
-在线课程《VMware Workstaion Pro精讲》课件
+
+在线课程<a href="https://ke.qq.com/course/3352641">《VMware Workstaion Pro精讲》</a>课件
 
 # 交流QQ群
 
